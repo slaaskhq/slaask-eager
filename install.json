@@ -1,0 +1,18 @@
+{
+  "resources": {
+    "head": [
+      {
+        "type": "script",
+        "src": "plugin.js"
+      }
+    ]
+  },
+  "options": {
+    "properties": {
+      "slaaskApiKey": {
+        "title": "Slaask API Key",
+        "type": "string"
+      }
+    }
+  }
+}
